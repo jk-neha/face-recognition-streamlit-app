@@ -179,7 +179,7 @@ joblib
 
 ## 👩‍💻 Author
 
-**Neha** · [@jk-neha](https://github.com/jk-neha)
+**Neha* Vardhini J K* · [@jk-neha](https://github.com/jk-neha)
 
 > *Undergraduate Project — Face Recognition Attendance System*
 
